@@ -2,7 +2,7 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "Semantic_conditioning",
-  "description": "This dataset contains neuroimaging data from a semantic conditioning task designed to investigate how contingency awareness modulates neural responses during fear conditioning. The study examines the relationship between explicit awareness of stimulus-outcome contingencies and the neural mechanisms underlying conditioned fear responses, contributing to understanding of the cognitive and neural bases of associative learning.",
+  "description": "This dataset contains neuroimaging data from a semantic conditioning task designed to investigate how contingency awareness modulates neural responses during fear conditioning. The study examines the relationship between explicit awareness of stimulus-outcome contingencies and the neural mechanisms underlying conditioned fear responses, contributing to understanding of conscious versus unconscious learning processes in aversive conditioning.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -19,19 +19,25 @@
       "term": "contingency awareness"
     },
     {
-      "term": "associative learning"
+      "term": "contingency"
+    },
+    {
+      "term": "Pavlovian conditioning"
     },
     {
       "term": "neural responses"
     },
     {
-      "term": "EEG"
+      "term": "aversive learning"
     },
     {
-      "term": "fear learning"
+      "term": "conscious learning"
     },
     {
-      "term": "awareness"
+      "term": "unconscious learning"
+    },
+    {
+      "term": "electroencephalography"
     }
   ],
   "related_identifiers": [
